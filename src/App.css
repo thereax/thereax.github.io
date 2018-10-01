@@ -1,0 +1,61 @@
+.header {
+  margin-top: 64px;
+  height: 400px;
+  width: 100%;
+}
+
+.layout {
+  background: white;
+}
+
+.intro {
+  top: 64px;
+  position: absolute;
+  color: white;
+  text-align: center;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.intro h1 {
+  color: white;
+  margin: 20px;
+  font-size: 2em;
+}
+
+.content {
+  text-align: center;
+}
+
+.intro p {
+  margin: 18px;
+}
+
+.signup_button {
+  color: #9ACD32;
+  background-color: white;
+}
+
+.offering {
+  width: 100%;
+  background-color: white;
+}
+
+.card {
+  text-align: center;
+  margin: 20px;
+  margin-bottom: 40px;
+}
+
+.card p {
+  text-align: center;
+}
+
+.card i {
+  margin: 10px;
+}
+
+.gradients {
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
